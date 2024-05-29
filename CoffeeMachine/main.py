@@ -53,7 +53,7 @@ def process_coins():
     return total
 
 
-def is_transaction_succesful(money_received, drink_cost):
+def is_transaction_successful(money_received, drink_cost):
     """Returns True when the payment is accepted, and False if money is insufficient"""
     if money_received >= drink_cost:
         change = round(money_received - drink_cost, 2)
@@ -86,5 +86,5 @@ while machine_turned_on:
         drink = MENU[choice]
         if is_resource_available(drink["ingredients"]):
             payment = process_coins()
-            if is_transaction_succesful(payment, drink["cost"]):
+            if is_transaction_successful(payment, drink["cost"]):
                 make_coffee(choice, drink["ingredients"])
