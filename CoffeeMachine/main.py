@@ -30,8 +30,7 @@ resources = {
     "coffee": 100,
 }
 
-machine_turned_on = True
-profit = 0
+
 
 
 def is_resource_available(order_ingredients):
