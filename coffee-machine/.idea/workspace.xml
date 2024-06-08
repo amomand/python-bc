@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b388435d-d4ca-4780-a6a9-57cb348e1140" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine/.idea/oop-coffee-machine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeMachine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeMachine/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-17-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game/.idea/quiz-game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
