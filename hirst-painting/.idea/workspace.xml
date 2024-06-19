@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a1e48cb-69bb-4533-a003-83315f517d61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/hirst-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hirst-painting.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/alexomand/Documents/python-bc/hirst-painting"
+    "last_opened_file_path": "/Users/alexwork/Documents/python-bc/hirst-painting"
   }
 }]]></component>
   <component name="RecentsManager">
