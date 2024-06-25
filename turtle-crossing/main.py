@@ -8,6 +8,7 @@ screen = Screen()
 protagonist = Player()
 screen.setup(width=600, height=600)
 screen.tracer(0)
+car_manager = CarManager()
 
 game_is_on = True
 while game_is_on:
@@ -15,9 +16,12 @@ while game_is_on:
     screen.update()
     screen.listen()
     screen.onkey(protagonist.move, "Up")
+    car_manager.create_car()
+    car_manager.move_cars()
 
     #Detect when at finish line.
     if protagonist.at_finish_line:
         print("You made it!")
         game_is_on = False
+
 
