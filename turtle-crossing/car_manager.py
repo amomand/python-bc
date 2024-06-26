@@ -20,7 +20,7 @@ class CarManager(Turtle):
             car.shapesize(1, 2)
             car.penup()
             car.color(random.choice(COLORS))
-            car.goto(x=300, y=(random.randint(-6,6))*CAR_SEPARATION)
+            car.goto(x=300, y=(random.randint(-6, 6))*CAR_SEPARATION)
             self.car_list.append(car)
 
     def move_cars(self):
@@ -29,4 +29,3 @@ class CarManager(Turtle):
 
     def level_up(self):
         self.car_speed += MOVE_INCREMENT
-
