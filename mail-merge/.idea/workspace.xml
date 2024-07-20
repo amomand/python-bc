@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46481f7d-a78e-4999-b5fd-105d6397183c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mail-merge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hirst-painting/.idea/hirst-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/.idea/hirst-painting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hirst-painting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hirst-painting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake-game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake-game/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake-game/.idea/snake-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake-game/.idea/snake-game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake-game/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../snake-game/data.txt" afterDir="false" />
-    </list>
+    <list default="true" id="46481f7d-a78e-4999-b5fd-105d6397183c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
