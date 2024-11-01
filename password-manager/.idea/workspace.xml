@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1e48cb-69bb-4533-a003-83315f517d61" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="f2d3c6cd-e094-4128-b30d-023bd7c207e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hirst-painting/.idea/hirst-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/.idea/hirst-painting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hirst-painting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hirst-painting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hirst-painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hirst-painting/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../snake-game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake-game/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../snake-game/.idea/snake-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake-game/.idea/snake-game.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../snake-game/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../snake-game/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../us-states-game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../us-states-game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../us-states-game/.idea/us-states-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../us-states-game/.idea/us-states-game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../us-states-game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../us-states-game/states_to_learn.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../weather-data/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weather-data/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../weather-data/.idea/weather-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../weather-data/.idea/weather-data.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../weather-data/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../weather-data/main.py" afterDir="false" />
@@ -18,62 +24,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2hrKr6kCXiJdf7vy5iAeL3m3wub" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2oFnCAxQTk9dsaSmXT9LuLW4uhW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/alexwork/Documents/python-bc/hirst-painting&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Alex.Omand/Documents/python-bc/password-manager"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a1e48cb-69bb-4533-a003-83315f517d61" name="Changes" comment="" />
-      <created>1718346951644</created>
+      <changelist id="f2d3c6cd-e094-4128-b30d-023bd7c207e2" name="Changes" comment="" />
+      <created>1730474060926</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1718346951644</updated>
+      <updated>1730474060926</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

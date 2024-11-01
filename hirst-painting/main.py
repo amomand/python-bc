@@ -1,8 +1,7 @@
 import turtle
-
 import colorgram
-from turtle import Turtle, Screen
 import random
+from turtle import Turtle, Screen
 
 color_list = colorgram.extract("image.jpg", 20)
 color_palette = []
