@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46481f7d-a78e-4999-b5fd-105d6397183c" name="Changes" comment="" />
+    <list default="true" id="46481f7d-a78e-4999-b5fd-105d6397183c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../weather-data/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weather-data/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weather-data/.idea/weather-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../weather-data/.idea/weather-data.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2jW9K6zWKyGMU2AavPDeb2wK2tH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -30,7 +33,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/alexomand/Documents/python-bc/mail-merge"
+    "last_opened_file_path": "/Users/alexwork/Documents/python-bc/mail-merge"
   }
 }]]></component>
   <component name="SharedIndexes">
