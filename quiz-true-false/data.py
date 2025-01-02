@@ -3,6 +3,8 @@ import requests
 parameters = {
     "amount": 10,
     "type": "boolean"
+    #Use category to set the topic of the quiz, for example, "computers" = 18
+    #"category": 18
 }
 
 response = requests.get("https://opentdb.com/api.php", params=parameters)
